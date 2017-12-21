@@ -1,0 +1,16 @@
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.Tests.deps.json
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.Tests.dll
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\obj\Debug\netcoreapp2.0\SportStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfo.cs
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.json
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.dev.json
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.Tests.pdb
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.dll
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\SportStore.pdb
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\obj\Debug\netcoreapp2.0\SportStore.Tests.dll
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\obj\Debug\netcoreapp2.0\SportStore.Tests.pdb
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Rushan\source\repos\SportStore\SportStore.test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
