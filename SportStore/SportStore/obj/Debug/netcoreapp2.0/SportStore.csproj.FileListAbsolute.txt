@@ -10,3 +10,15 @@ C:\Users\Rushan\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\Sport
 C:\Users\Rushan\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb
 C:\Users\Rushan\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
 C:\Users\Rushan\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojResolveAssemblyReference.cache
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.deps.json
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.json
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.dev.json
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.dll
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.pdb
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojResolveAssemblyReference.cache
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfoInputs.cache
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfo.cs
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
+C:\Users\Rushan\Documents\GitHub\SportsStore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb

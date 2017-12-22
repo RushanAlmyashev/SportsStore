@@ -13637,11 +13637,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rushan\\source\\repos\\SportStore\\SportStore.test\\SportStore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Rushan\\Documents\\GitHub\\SportsStore\\SportStore\\SportStore.test\\SportStore.Tests.csproj",
       "projectName": "SportStore.Tests",
-      "projectPath": "C:\\Users\\Rushan\\source\\repos\\SportStore\\SportStore.test\\SportStore.Tests.csproj",
+      "projectPath": "C:\\Users\\Rushan\\Documents\\GitHub\\SportsStore\\SportStore\\SportStore.test\\SportStore.Tests.csproj",
       "packagesPath": "C:\\Users\\Rushan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rushan\\source\\repos\\SportStore\\SportStore.test\\obj\\",
+      "outputPath": "C:\\Users\\Rushan\\Documents\\GitHub\\SportsStore\\SportStore\\SportStore.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
@@ -13661,8 +13661,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Rushan\\source\\repos\\SportStore\\SportStore\\SportStore.csproj": {
-              "projectPath": "C:\\Users\\Rushan\\source\\repos\\SportStore\\SportStore\\SportStore.csproj"
+            "C:\\Users\\Rushan\\Documents\\GitHub\\SportsStore\\SportStore\\SportStore\\SportStore.csproj": {
+              "projectPath": "C:\\Users\\Rushan\\Documents\\GitHub\\SportsStore\\SportStore\\SportStore\\SportStore.csproj"
             }
           }
         }
